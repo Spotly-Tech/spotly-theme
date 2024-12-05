@@ -1,0 +1,21 @@
+{
+  "name": "spotly",
+  "displayName": "Spotly",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spotly",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spotly-color-theme.json"
+      }
+    ]
+  }
+}
