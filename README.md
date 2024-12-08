@@ -7,14 +7,16 @@
 Spotly is a clean, minimalist VS Code theme designed to enhance your coding experience. It offers optimized color palettes for improved readability and visual comfort.
 
 ## Screenshots:
+Default (Dark) Theme
+![Default Theme](images/Screenshot_1.jpg)
 
 ## Key Features:
 
 -   Clean and Minimalist Design: A distraction-free environment.
 -   Enhanced Readability: Optimized color palette for code clarity.
 -   Customizable: Easily adjust the theme's appearance.
--   High Contrast: Clear distinction between code elements.
--   Dark and Light Mode: Choose the mode that suits you.
+-   High Contrast (Under development): Clear distinction between code elements.
+-   Dark and Light (Under development): Choose the mode that suits you.
 
 ## Installation:
 
