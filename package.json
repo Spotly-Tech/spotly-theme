@@ -3,6 +3,12 @@
   "displayName": "Spotly",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spotly-Tech/spotly-theme"
+  },
+  "publisher": "MaksymBukator",
+  "icon": "icon.jpg",
   "engines": {
     "vscode": "^1.95.0"
   },
