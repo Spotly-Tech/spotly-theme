@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2024-12-09
+**This update addresses and fixed several color inconsistencies.**
+### Changed
+
+-	Changed colors of:
+	-	Selection of text inside IDE from `#EEFF0064` to `#2859c248`.
+	-	Terminal cursor background (text color inside cursor) from `#EDFF00` to `#120F12`.
+	-	Terminal cursor foreground (cursor body color) from `#120f12` to `#EDFF00`.
+	-	Selection color of text inside terminal from `#FFFFFF10` to `#FFFFFF3c`.
+	-	Active selection color inside editor from `#3A3D4140` to `#3F69C220`.
+	-	Inactive selection color inside editor from `#3A3D4197` to `#3F69C23A`.
+
 ## [1.0.0] - 2024-12-08
 
 **This release focuses on improving accessibility and addressing user feedback related to eye strain caused by overly bright colors.**
