@@ -40,7 +40,7 @@ Spotly is a clean, minimalist VS Code theme designed to enhance your coding expe
 
 1. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
 2. In search bar type "Preferences: Color Theme" and press `Enter`.
-3. In appeared list search search for "Spotly" theme or just it in search bar.
+3. In appeared list search look for "Spotly" theme or just type it in search bar.
 4. When you found "Spotly" theme press `Enter` and choose between two variants (Light/Dark) of our theme to your heart
 
 ## Customization:
@@ -56,6 +56,9 @@ or
 1. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS)
 2. Type "Preferences: Open User Settings (JSON)".
 3. Press `Enter`
+
+Now you can start changing colors using [this documentation for Visual Studio Code](https://code.visualstudio.com/api/references/theme-color) or to reference one of the [theme json file](themes/) for more accurate token colors customization
+
 
 ## Contributing:
 
