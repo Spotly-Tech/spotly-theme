@@ -15,37 +15,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### Activity Bar
 
--	Foreground: #545c7ee9
--	Background: #e6e3dd
--	Badge Foreground: #fffcf5
--	Badge Background: #21499f
+-	Foreground: `#545c7ee9`
+-	Background: `#e6e3dd`
+-	Badge Foreground: `#fffcf5`
+-	Badge Background: `#21499f`
 
 #### Side Bar
 
--	Background: #e6e3dd
--	Foreground: #545c7ee9
--	Section Header Background: Transparent (#00000000)
+-	Background: `#e6e3dd`
+-	Foreground: `#545c7ee9`
 -	Section Header Foreground: #545c7ee9
--	Border: Transparent (#00000000)
 
 #### Status Bar
--	Background: #e6e3dd
--	Foreground: #5a607d
--	Debugging Background: #ffd255
--	Debugging Foreground: #5a607d
+-	Background: `#e6e3dd`
+-	Foreground: `#5a607d`
+-	Debugging Background: `#ffd255`
+-	Debugging Foreground: `#5a607d`
 
 #### Buttons
--	Primary Background: #21499f
--	Primary Foreground: #fffcf5
--	Secondary Background: #7982a9cd
--	Secondary Foreground: #fffcf5
+-	Primary Background: `#21499f`
+-	Primary Foreground: `#fffcf5`
+-	Secondary Background: `#7982a9cd`
+-	Secondary Foreground: `#fffcf5`
 
 #### Editor
--	Background: #fffcf5
--	Foreground: #161316
--	Cursor Foreground: #3f68c2
--	Line Number Foreground: #7982a94c
--	Active Line Number Foreground: #7982a9
+-	Background: `#fffcf5`
+-	Foreground: `#161316`
+-	Cursor Foreground: `#3f68c2`
+-	Line Number Foreground: `#7982a94c`
+-	Active Line Number Foreground: `#7982a9`
 
 
 ## [1.0.1] - 2024-12-09
