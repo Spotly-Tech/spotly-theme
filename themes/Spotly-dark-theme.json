@@ -2005,6 +2005,8 @@
         "breadcrumb.activeSelectionForeground": "#7982a9",
         "editorGutter.commentRangeForeground": "#545c7ea1",
         "debugExceptionWidget.background": "#120f12",
-        "debugExceptionWidget.border": "#5a607d4c"
+        "debugExceptionWidget.border": "#5a607d4c",
+        "editorInlayHint.background": "#3d3d3d82",
+        "editorInlayHint.foreground": "#7f7f7f"
     }
 }
