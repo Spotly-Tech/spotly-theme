@@ -2,7 +2,7 @@
     "name": "Spotly Light",
     "author": "Maksym Bukator",
     "maintainers": ["Maksym Bukator <m.bukator03@gmail.com>"],
-    "semanticClass": "spotly-dark",
+    "semanticClass": "spotly-light",
     "type": "light",
     "semanticHighlighting": true,
     "semanticTokenColors": {
