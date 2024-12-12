@@ -10,7 +10,7 @@
             "foreground": "#56b6c2"
         },
         "variable.constant": {
-            "foreground": "#975dff"
+            "foreground": "#d18611"
         },
         "variable.defaultLibrary": {
             "foreground": "#ffd255"
