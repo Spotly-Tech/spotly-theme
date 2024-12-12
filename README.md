@@ -8,19 +8,33 @@ Spotly is a clean, minimalist VS Code theme designed to enhance your coding expe
 
 ## Screenshots:
 
-### Default (Dark) Theme
+### Dark Theme
 
 #### Editor Colors
 
-![Default Theme](images/Screenshot_1.jpg)
+![Dark Theme Editor](images/Screenshot_1.jpg)
 
 #### Terminal Colors
 
-![Default Theme](images/Screenshot_2.jpg)
+![Dark Theme Terminal](images/Screenshot_2.jpg)
 
 #### Tabs and Widgets Colors
 
-![Default Theme](images/Screenshot_3.jpg)
+![Dark Theme Tabs and Widgets](images/Screenshot_3.jpg)
+
+### Light Theme
+
+#### Editor Colors
+
+![Light Theme Editor](images/Screenshot_4.jpg)
+
+#### Terminal Colors
+
+![Light Theme Terminal](images/Screenshot_5.jpg)
+
+#### Tabs and Widgets Colors
+
+![Light Theme Tabs and Widgets](images/Screenshot_6.jpg)
 
 ## Key Features:
 
@@ -28,7 +42,7 @@ Spotly is a clean, minimalist VS Code theme designed to enhance your coding expe
 -   Enhanced Readability: Optimized color palette for code clarity.
 -   Customizable: Easily adjust the theme's appearance.
 -   High Contrast (Under development): Clear distinction between code elements.
--   Dark and Light (Under development): Choose the mode that suits you.
+-   Dark and Light: Choose the mode that suits you.
 
 ## Installation:
 
@@ -58,7 +72,6 @@ or
 3. Press `Enter`
 
 Now you can start changing colors using [this documentation for Visual Studio Code](https://code.visualstudio.com/api/references/theme-color) or to reference one of the [theme json file](themes/) for more accurate token colors customization
-
 
 ## Contributing:
 
