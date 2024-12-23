@@ -1,0 +1,6 @@
+.husky/*
+.vscode/*
+node_modules/*
+README.md
+CHANGELOG.md
+commitlint.config.js
