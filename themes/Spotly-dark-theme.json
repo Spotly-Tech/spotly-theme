@@ -208,10 +208,7 @@
         },
         {
             "name": "java type",
-            "scope": [
-                "storage.type.annotation.java",
-                "storage.type.object.array.java"
-            ],
+            "scope": ["storage.type.annotation.java", "storage.type.object.array.java"],
             "settings": {
                 "foreground": "#ffd255"
             }
@@ -1407,10 +1404,7 @@
         },
         {
             "name": "go operator",
-            "scope": [
-                "keyword.operator.arithmetic.go",
-                "keyword.operator.address.go"
-            ],
+            "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
             "settings": {
                 "foreground": "#bf56de"
             }
@@ -1483,10 +1477,7 @@
         },
         {
             "name": "CoffeeScript Function Argument",
-            "scope": [
-                "meta.arguments.coffee",
-                "variable.parameter.function.coffee"
-            ],
+            "scope": ["meta.arguments.coffee", "variable.parameter.function.coffee"],
             "settings": {
                 "foreground": "#c7475a"
             }
@@ -1700,7 +1691,7 @@
             "scope": "comment, punctuation.definition.comment",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#7f848e3c"
+                "foreground": "#7f848e71"
             }
         },
         {
