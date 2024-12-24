@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2024-12-24
+
+**This patch fixes color of comments to make them more readable**
+
+### Added
+-   Added colors for inlay hints for dark theme
+
+### Changed
+-   Changed colors of:
+    -   Comments from `#7f848e3c` to `#7f848e71`
+
+### Fixed
+-   Fixed color styling in docs
+
 ## [1.1.0] - 2024-12-12
 
 **This release introduces a white theme, enhancing readability in bright environments.**
