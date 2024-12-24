@@ -2,7 +2,7 @@
     "name": "spotly",
     "displayName": "Spotly",
     "description": "Clean, minimalist VS Code theme designed to enhance your coding experience. It offers optimized color palettes for improved readability and visual comfort.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/Spotly-Tech/spotly-theme"
